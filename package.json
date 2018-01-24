@@ -1,0 +1,26 @@
+{
+  "name": "wmcc-inet",
+  "version": "1.0.0-beta.1",
+  "release": "25 January 2018",
+  "description": "WorldMobileCoin © WMCC IP Address Tools",
+  "repository": "git://github.com/worldmobilecoin/wmcc-inet.git",
+  "homepage": "https://github.com/worldmobilecoin/wmcc-inet",
+  "bugs": {
+    "url": "https://github.com/worldmobilecoin/wmcc-inet/issues"
+  },
+  "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
+  "keywords": [
+    "worldmobilecoin",
+    "wmcc",
+    "wmcc-inet",
+    "addr",
+    "address",
+    "inet",
+    "ip"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "./lib/wmcc-inet.js",
+  "license": "MIT"
+}
